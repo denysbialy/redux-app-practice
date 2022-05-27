@@ -1,0 +1,12 @@
+{
+    "en_US": {
+        "countText": "Count is:",
+        "plusBtn": "Plus",
+        "minusBtn": "Minus"
+    },
+    "ua_UA": {
+        "countText": "Лiчiльник:",
+        "plusBtn": "Додати",
+        "minusBtn": "Вiдняти"
+    }
+}

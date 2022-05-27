@@ -1,0 +1,14 @@
+{
+    "en_US": {
+        "greatingText": "Hello",
+        "guestName": "Guest",
+        "changeLanguages": "Change Languages",
+        "optionText": "EN"
+    },
+    "ua_UA": {
+        "greatingText": "Привiт:",
+        "guestName": "Гiсть",
+        "changeLanguages": "Змiнити мову",
+        "optionText": "UA"
+    }
+}
